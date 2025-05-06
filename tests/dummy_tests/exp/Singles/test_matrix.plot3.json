@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "name": "test_matrix3",
+    "type": "matrix",
+	"template":  "matrix"
+  },
+  "data": [
+    [0.1, 0.1, 0.1],
+    [0.1, 0.1, 0.1],
+    [0.1, 0.1, 0.1]
+  ]
+}

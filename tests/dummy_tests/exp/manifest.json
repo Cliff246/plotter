@@ -1,0 +1,52 @@
+{
+	"render_id": "test_run_0001",
+	"time": "now",
+	"manifest_version": "0.1",
+	"origin": "test",
+	"plots": [
+		{
+			"name": "test_matrix",
+			"type": "matrix",
+			"source": "test_plots/test_matrix.plot.json",
+			"output": "test_plots/test_matrix.png"
+		},
+		{
+			"name": "test_matrix",
+			"type": "matrix",
+			"source": "test_plots/test_matrix.plot1.json",
+			"output": "test_plots/test_matrix1.png"
+		},
+		{
+			"name": "test_matrix",
+			"type": "matrix",
+			"source": "test_plots/test_matrix.plot2.json",
+			"output": "test_plots/test_matrix2.png"
+		},
+		{
+			"name": "test_matrix",
+			"type": "matrix",
+			"source": "test_plots/test_matrix.plot3.json",
+			"output": "test_plots/test_matrix3.png"
+		},
+		{
+			"name": "test_matrix",
+			"type": "matrix",
+			"source": "test_matrix.plot4.json",
+			"output": "test_plots/test_matrix4.png"
+		}
+	],
+	"plot_groups": {
+
+	},
+	"graph_path": "/",
+	"render_templates": {
+		"matrix": {
+			"template_path": "matrix"
+		}
+	},
+	"style": {
+		"default_colormap": "viridis",
+		"theme": "dark"
+	},
+	"render_kit_version": "0.1.0"
+}
