@@ -3,12 +3,14 @@ matplotlib.use('Agg')  # Force non-interactive backend (good for servers, headle
 
 import matplotlib.pyplot as plt
 from templates import *
-from plot import *
-from json_manifest import Manifest
+from commons.plot import *
+from commons.json_manifest import Manifest
+from templates.templates import Template
 from multiprocessing import Process, Queue
 import sys
 import numpy as np
-from logger import setup_logging
+from manager.logger import setup_logging
+import os
 
 def render_worker(manifest, worker_id, shared_queue):
 	templates_cache = {}

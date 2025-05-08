@@ -1,14 +1,6 @@
 
+from manager.manager import main
 import sys
-import os
-from logger import setup_logging
-
-import matplotlib
-
-matplotlib.use("Agg")
-
-import matplotlib.pyplot as plt
-from manager import main
 
 if __name__ == "__main__":
 	if len(sys.argv) != 3:
