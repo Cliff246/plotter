@@ -1,0 +1,1860 @@
+{
+  "render_id": "2_o3_neuron_showcase",
+  "time": "20250504_190906",
+  "manifest_version": "0.1",
+  "origin": "default",
+  "plots": [
+    {
+      "name": "reward_history",
+      "type": "line",
+      "source": "Singles/reward_history.plot.json",
+      "output": "reward_history.png"
+    }
+  ],
+  "plot_groups": {
+    "AlignmentMatrices": {
+      "plots": [
+        {
+          "name": "alignment_A_0",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_0.plot.json",
+          "output": "alignment_A_0.png"
+        },
+        {
+          "name": "alignment_A_100",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_100.plot.json",
+          "output": "alignment_A_100.png"
+        },
+        {
+          "name": "alignment_A_200",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_200.plot.json",
+          "output": "alignment_A_200.png"
+        },
+        {
+          "name": "alignment_A_300",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_300.plot.json",
+          "output": "alignment_A_300.png"
+        },
+        {
+          "name": "alignment_A_400",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_400.plot.json",
+          "output": "alignment_A_400.png"
+        },
+        {
+          "name": "alignment_A_500",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_500.plot.json",
+          "output": "alignment_A_500.png"
+        },
+        {
+          "name": "alignment_A_600",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_600.plot.json",
+          "output": "alignment_A_600.png"
+        },
+        {
+          "name": "alignment_A_700",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_700.plot.json",
+          "output": "alignment_A_700.png"
+        },
+        {
+          "name": "alignment_A_800",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_800.plot.json",
+          "output": "alignment_A_800.png"
+        },
+        {
+          "name": "alignment_A_900",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_900.plot.json",
+          "output": "alignment_A_900.png"
+        },
+        {
+          "name": "alignment_A_1000",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1000.plot.json",
+          "output": "alignment_A_1000.png"
+        },
+        {
+          "name": "alignment_A_1100",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1100.plot.json",
+          "output": "alignment_A_1100.png"
+        },
+        {
+          "name": "alignment_A_1200",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1200.plot.json",
+          "output": "alignment_A_1200.png"
+        },
+        {
+          "name": "alignment_A_1300",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1300.plot.json",
+          "output": "alignment_A_1300.png"
+        },
+        {
+          "name": "alignment_A_1400",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1400.plot.json",
+          "output": "alignment_A_1400.png"
+        },
+        {
+          "name": "alignment_A_1500",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1500.plot.json",
+          "output": "alignment_A_1500.png"
+        },
+        {
+          "name": "alignment_A_1600",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1600.plot.json",
+          "output": "alignment_A_1600.png"
+        },
+        {
+          "name": "alignment_A_1700",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1700.plot.json",
+          "output": "alignment_A_1700.png"
+        },
+        {
+          "name": "alignment_A_1800",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1800.plot.json",
+          "output": "alignment_A_1800.png"
+        },
+        {
+          "name": "alignment_A_1900",
+          "type": "matrix",
+          "source": "AlignmentMatrices/alignment_A_1900.plot.json",
+          "output": "alignment_A_1900.png"
+        }
+      ],
+      "meta": {}
+    },
+    "DirectionSlices": {
+      "plots": [
+        {
+          "name": "D_A_slice_0_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_0_0.plot.json",
+          "output": "D_A_slice_0_0.png"
+        },
+        {
+          "name": "D_A_slice_0_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_0_1.plot.json",
+          "output": "D_A_slice_0_1.png"
+        },
+        {
+          "name": "D_A_slice_0_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_0_2.plot.json",
+          "output": "D_A_slice_0_2.png"
+        },
+        {
+          "name": "D_A_slice_0_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_0_3.plot.json",
+          "output": "D_A_slice_0_3.png"
+        },
+        {
+          "name": "D_A_slice_100_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_100_0.plot.json",
+          "output": "D_A_slice_100_0.png"
+        },
+        {
+          "name": "D_A_slice_100_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_100_1.plot.json",
+          "output": "D_A_slice_100_1.png"
+        },
+        {
+          "name": "D_A_slice_100_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_100_2.plot.json",
+          "output": "D_A_slice_100_2.png"
+        },
+        {
+          "name": "D_A_slice_100_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_100_3.plot.json",
+          "output": "D_A_slice_100_3.png"
+        },
+        {
+          "name": "D_A_slice_200_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_200_0.plot.json",
+          "output": "D_A_slice_200_0.png"
+        },
+        {
+          "name": "D_A_slice_200_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_200_1.plot.json",
+          "output": "D_A_slice_200_1.png"
+        },
+        {
+          "name": "D_A_slice_200_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_200_2.plot.json",
+          "output": "D_A_slice_200_2.png"
+        },
+        {
+          "name": "D_A_slice_200_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_200_3.plot.json",
+          "output": "D_A_slice_200_3.png"
+        },
+        {
+          "name": "D_A_slice_300_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_300_0.plot.json",
+          "output": "D_A_slice_300_0.png"
+        },
+        {
+          "name": "D_A_slice_300_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_300_1.plot.json",
+          "output": "D_A_slice_300_1.png"
+        },
+        {
+          "name": "D_A_slice_300_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_300_2.plot.json",
+          "output": "D_A_slice_300_2.png"
+        },
+        {
+          "name": "D_A_slice_300_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_300_3.plot.json",
+          "output": "D_A_slice_300_3.png"
+        },
+        {
+          "name": "D_A_slice_400_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_400_0.plot.json",
+          "output": "D_A_slice_400_0.png"
+        },
+        {
+          "name": "D_A_slice_400_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_400_1.plot.json",
+          "output": "D_A_slice_400_1.png"
+        },
+        {
+          "name": "D_A_slice_400_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_400_2.plot.json",
+          "output": "D_A_slice_400_2.png"
+        },
+        {
+          "name": "D_A_slice_400_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_400_3.plot.json",
+          "output": "D_A_slice_400_3.png"
+        },
+        {
+          "name": "D_A_slice_500_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_500_0.plot.json",
+          "output": "D_A_slice_500_0.png"
+        },
+        {
+          "name": "D_A_slice_500_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_500_1.plot.json",
+          "output": "D_A_slice_500_1.png"
+        },
+        {
+          "name": "D_A_slice_500_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_500_2.plot.json",
+          "output": "D_A_slice_500_2.png"
+        },
+        {
+          "name": "D_A_slice_500_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_500_3.plot.json",
+          "output": "D_A_slice_500_3.png"
+        },
+        {
+          "name": "D_A_slice_600_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_600_0.plot.json",
+          "output": "D_A_slice_600_0.png"
+        },
+        {
+          "name": "D_A_slice_600_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_600_1.plot.json",
+          "output": "D_A_slice_600_1.png"
+        },
+        {
+          "name": "D_A_slice_600_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_600_2.plot.json",
+          "output": "D_A_slice_600_2.png"
+        },
+        {
+          "name": "D_A_slice_600_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_600_3.plot.json",
+          "output": "D_A_slice_600_3.png"
+        },
+        {
+          "name": "D_A_slice_700_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_700_0.plot.json",
+          "output": "D_A_slice_700_0.png"
+        },
+        {
+          "name": "D_A_slice_700_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_700_1.plot.json",
+          "output": "D_A_slice_700_1.png"
+        },
+        {
+          "name": "D_A_slice_700_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_700_2.plot.json",
+          "output": "D_A_slice_700_2.png"
+        },
+        {
+          "name": "D_A_slice_700_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_700_3.plot.json",
+          "output": "D_A_slice_700_3.png"
+        },
+        {
+          "name": "D_A_slice_800_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_800_0.plot.json",
+          "output": "D_A_slice_800_0.png"
+        },
+        {
+          "name": "D_A_slice_800_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_800_1.plot.json",
+          "output": "D_A_slice_800_1.png"
+        },
+        {
+          "name": "D_A_slice_800_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_800_2.plot.json",
+          "output": "D_A_slice_800_2.png"
+        },
+        {
+          "name": "D_A_slice_800_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_800_3.plot.json",
+          "output": "D_A_slice_800_3.png"
+        },
+        {
+          "name": "D_A_slice_900_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_900_0.plot.json",
+          "output": "D_A_slice_900_0.png"
+        },
+        {
+          "name": "D_A_slice_900_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_900_1.plot.json",
+          "output": "D_A_slice_900_1.png"
+        },
+        {
+          "name": "D_A_slice_900_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_900_2.plot.json",
+          "output": "D_A_slice_900_2.png"
+        },
+        {
+          "name": "D_A_slice_900_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_900_3.plot.json",
+          "output": "D_A_slice_900_3.png"
+        },
+        {
+          "name": "D_A_slice_1000_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1000_0.plot.json",
+          "output": "D_A_slice_1000_0.png"
+        },
+        {
+          "name": "D_A_slice_1000_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1000_1.plot.json",
+          "output": "D_A_slice_1000_1.png"
+        },
+        {
+          "name": "D_A_slice_1000_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1000_2.plot.json",
+          "output": "D_A_slice_1000_2.png"
+        },
+        {
+          "name": "D_A_slice_1000_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1000_3.plot.json",
+          "output": "D_A_slice_1000_3.png"
+        },
+        {
+          "name": "D_A_slice_1100_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1100_0.plot.json",
+          "output": "D_A_slice_1100_0.png"
+        },
+        {
+          "name": "D_A_slice_1100_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1100_1.plot.json",
+          "output": "D_A_slice_1100_1.png"
+        },
+        {
+          "name": "D_A_slice_1100_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1100_2.plot.json",
+          "output": "D_A_slice_1100_2.png"
+        },
+        {
+          "name": "D_A_slice_1100_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1100_3.plot.json",
+          "output": "D_A_slice_1100_3.png"
+        },
+        {
+          "name": "D_A_slice_1200_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1200_0.plot.json",
+          "output": "D_A_slice_1200_0.png"
+        },
+        {
+          "name": "D_A_slice_1200_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1200_1.plot.json",
+          "output": "D_A_slice_1200_1.png"
+        },
+        {
+          "name": "D_A_slice_1200_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1200_2.plot.json",
+          "output": "D_A_slice_1200_2.png"
+        },
+        {
+          "name": "D_A_slice_1200_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1200_3.plot.json",
+          "output": "D_A_slice_1200_3.png"
+        },
+        {
+          "name": "D_A_slice_1300_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1300_0.plot.json",
+          "output": "D_A_slice_1300_0.png"
+        },
+        {
+          "name": "D_A_slice_1300_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1300_1.plot.json",
+          "output": "D_A_slice_1300_1.png"
+        },
+        {
+          "name": "D_A_slice_1300_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1300_2.plot.json",
+          "output": "D_A_slice_1300_2.png"
+        },
+        {
+          "name": "D_A_slice_1300_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1300_3.plot.json",
+          "output": "D_A_slice_1300_3.png"
+        },
+        {
+          "name": "D_A_slice_1400_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1400_0.plot.json",
+          "output": "D_A_slice_1400_0.png"
+        },
+        {
+          "name": "D_A_slice_1400_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1400_1.plot.json",
+          "output": "D_A_slice_1400_1.png"
+        },
+        {
+          "name": "D_A_slice_1400_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1400_2.plot.json",
+          "output": "D_A_slice_1400_2.png"
+        },
+        {
+          "name": "D_A_slice_1400_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1400_3.plot.json",
+          "output": "D_A_slice_1400_3.png"
+        },
+        {
+          "name": "D_A_slice_1500_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1500_0.plot.json",
+          "output": "D_A_slice_1500_0.png"
+        },
+        {
+          "name": "D_A_slice_1500_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1500_1.plot.json",
+          "output": "D_A_slice_1500_1.png"
+        },
+        {
+          "name": "D_A_slice_1500_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1500_2.plot.json",
+          "output": "D_A_slice_1500_2.png"
+        },
+        {
+          "name": "D_A_slice_1500_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1500_3.plot.json",
+          "output": "D_A_slice_1500_3.png"
+        },
+        {
+          "name": "D_A_slice_1600_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1600_0.plot.json",
+          "output": "D_A_slice_1600_0.png"
+        },
+        {
+          "name": "D_A_slice_1600_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1600_1.plot.json",
+          "output": "D_A_slice_1600_1.png"
+        },
+        {
+          "name": "D_A_slice_1600_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1600_2.plot.json",
+          "output": "D_A_slice_1600_2.png"
+        },
+        {
+          "name": "D_A_slice_1600_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1600_3.plot.json",
+          "output": "D_A_slice_1600_3.png"
+        },
+        {
+          "name": "D_A_slice_1700_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1700_0.plot.json",
+          "output": "D_A_slice_1700_0.png"
+        },
+        {
+          "name": "D_A_slice_1700_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1700_1.plot.json",
+          "output": "D_A_slice_1700_1.png"
+        },
+        {
+          "name": "D_A_slice_1700_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1700_2.plot.json",
+          "output": "D_A_slice_1700_2.png"
+        },
+        {
+          "name": "D_A_slice_1700_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1700_3.plot.json",
+          "output": "D_A_slice_1700_3.png"
+        },
+        {
+          "name": "D_A_slice_1800_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1800_0.plot.json",
+          "output": "D_A_slice_1800_0.png"
+        },
+        {
+          "name": "D_A_slice_1800_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1800_1.plot.json",
+          "output": "D_A_slice_1800_1.png"
+        },
+        {
+          "name": "D_A_slice_1800_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1800_2.plot.json",
+          "output": "D_A_slice_1800_2.png"
+        },
+        {
+          "name": "D_A_slice_1800_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1800_3.plot.json",
+          "output": "D_A_slice_1800_3.png"
+        },
+        {
+          "name": "D_A_slice_1900_0",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1900_0.plot.json",
+          "output": "D_A_slice_1900_0.png"
+        },
+        {
+          "name": "D_A_slice_1900_1",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1900_1.plot.json",
+          "output": "D_A_slice_1900_1.png"
+        },
+        {
+          "name": "D_A_slice_1900_2",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1900_2.plot.json",
+          "output": "D_A_slice_1900_2.png"
+        },
+        {
+          "name": "D_A_slice_1900_3",
+          "type": "matrix",
+          "source": "DirectionSlices/D_A_slice_1900_3.plot.json",
+          "output": "D_A_slice_1900_3.png"
+        }
+      ],
+      "meta": {}
+    },
+    "MomentumSlices": {
+      "plots": [
+        {
+          "name": "momentum_D_0_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_0_0.plot.json",
+          "output": "momentum_D_0_0.png"
+        },
+        {
+          "name": "momentum_D_0_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_0_1.plot.json",
+          "output": "momentum_D_0_1.png"
+        },
+        {
+          "name": "momentum_D_0_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_0_2.plot.json",
+          "output": "momentum_D_0_2.png"
+        },
+        {
+          "name": "momentum_D_0_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_0_3.plot.json",
+          "output": "momentum_D_0_3.png"
+        },
+        {
+          "name": "momentum_D_100_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_100_0.plot.json",
+          "output": "momentum_D_100_0.png"
+        },
+        {
+          "name": "momentum_D_100_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_100_1.plot.json",
+          "output": "momentum_D_100_1.png"
+        },
+        {
+          "name": "momentum_D_100_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_100_2.plot.json",
+          "output": "momentum_D_100_2.png"
+        },
+        {
+          "name": "momentum_D_100_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_100_3.plot.json",
+          "output": "momentum_D_100_3.png"
+        },
+        {
+          "name": "momentum_D_200_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_200_0.plot.json",
+          "output": "momentum_D_200_0.png"
+        },
+        {
+          "name": "momentum_D_200_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_200_1.plot.json",
+          "output": "momentum_D_200_1.png"
+        },
+        {
+          "name": "momentum_D_200_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_200_2.plot.json",
+          "output": "momentum_D_200_2.png"
+        },
+        {
+          "name": "momentum_D_200_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_200_3.plot.json",
+          "output": "momentum_D_200_3.png"
+        },
+        {
+          "name": "momentum_D_300_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_300_0.plot.json",
+          "output": "momentum_D_300_0.png"
+        },
+        {
+          "name": "momentum_D_300_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_300_1.plot.json",
+          "output": "momentum_D_300_1.png"
+        },
+        {
+          "name": "momentum_D_300_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_300_2.plot.json",
+          "output": "momentum_D_300_2.png"
+        },
+        {
+          "name": "momentum_D_300_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_300_3.plot.json",
+          "output": "momentum_D_300_3.png"
+        },
+        {
+          "name": "momentum_D_400_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_400_0.plot.json",
+          "output": "momentum_D_400_0.png"
+        },
+        {
+          "name": "momentum_D_400_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_400_1.plot.json",
+          "output": "momentum_D_400_1.png"
+        },
+        {
+          "name": "momentum_D_400_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_400_2.plot.json",
+          "output": "momentum_D_400_2.png"
+        },
+        {
+          "name": "momentum_D_400_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_400_3.plot.json",
+          "output": "momentum_D_400_3.png"
+        },
+        {
+          "name": "momentum_D_500_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_500_0.plot.json",
+          "output": "momentum_D_500_0.png"
+        },
+        {
+          "name": "momentum_D_500_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_500_1.plot.json",
+          "output": "momentum_D_500_1.png"
+        },
+        {
+          "name": "momentum_D_500_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_500_2.plot.json",
+          "output": "momentum_D_500_2.png"
+        },
+        {
+          "name": "momentum_D_500_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_500_3.plot.json",
+          "output": "momentum_D_500_3.png"
+        },
+        {
+          "name": "momentum_D_600_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_600_0.plot.json",
+          "output": "momentum_D_600_0.png"
+        },
+        {
+          "name": "momentum_D_600_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_600_1.plot.json",
+          "output": "momentum_D_600_1.png"
+        },
+        {
+          "name": "momentum_D_600_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_600_2.plot.json",
+          "output": "momentum_D_600_2.png"
+        },
+        {
+          "name": "momentum_D_600_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_600_3.plot.json",
+          "output": "momentum_D_600_3.png"
+        },
+        {
+          "name": "momentum_D_700_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_700_0.plot.json",
+          "output": "momentum_D_700_0.png"
+        },
+        {
+          "name": "momentum_D_700_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_700_1.plot.json",
+          "output": "momentum_D_700_1.png"
+        },
+        {
+          "name": "momentum_D_700_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_700_2.plot.json",
+          "output": "momentum_D_700_2.png"
+        },
+        {
+          "name": "momentum_D_700_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_700_3.plot.json",
+          "output": "momentum_D_700_3.png"
+        },
+        {
+          "name": "momentum_D_800_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_800_0.plot.json",
+          "output": "momentum_D_800_0.png"
+        },
+        {
+          "name": "momentum_D_800_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_800_1.plot.json",
+          "output": "momentum_D_800_1.png"
+        },
+        {
+          "name": "momentum_D_800_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_800_2.plot.json",
+          "output": "momentum_D_800_2.png"
+        },
+        {
+          "name": "momentum_D_800_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_800_3.plot.json",
+          "output": "momentum_D_800_3.png"
+        },
+        {
+          "name": "momentum_D_900_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_900_0.plot.json",
+          "output": "momentum_D_900_0.png"
+        },
+        {
+          "name": "momentum_D_900_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_900_1.plot.json",
+          "output": "momentum_D_900_1.png"
+        },
+        {
+          "name": "momentum_D_900_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_900_2.plot.json",
+          "output": "momentum_D_900_2.png"
+        },
+        {
+          "name": "momentum_D_900_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_900_3.plot.json",
+          "output": "momentum_D_900_3.png"
+        },
+        {
+          "name": "momentum_D_1000_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1000_0.plot.json",
+          "output": "momentum_D_1000_0.png"
+        },
+        {
+          "name": "momentum_D_1000_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1000_1.plot.json",
+          "output": "momentum_D_1000_1.png"
+        },
+        {
+          "name": "momentum_D_1000_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1000_2.plot.json",
+          "output": "momentum_D_1000_2.png"
+        },
+        {
+          "name": "momentum_D_1000_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1000_3.plot.json",
+          "output": "momentum_D_1000_3.png"
+        },
+        {
+          "name": "momentum_D_1100_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1100_0.plot.json",
+          "output": "momentum_D_1100_0.png"
+        },
+        {
+          "name": "momentum_D_1100_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1100_1.plot.json",
+          "output": "momentum_D_1100_1.png"
+        },
+        {
+          "name": "momentum_D_1100_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1100_2.plot.json",
+          "output": "momentum_D_1100_2.png"
+        },
+        {
+          "name": "momentum_D_1100_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1100_3.plot.json",
+          "output": "momentum_D_1100_3.png"
+        },
+        {
+          "name": "momentum_D_1200_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1200_0.plot.json",
+          "output": "momentum_D_1200_0.png"
+        },
+        {
+          "name": "momentum_D_1200_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1200_1.plot.json",
+          "output": "momentum_D_1200_1.png"
+        },
+        {
+          "name": "momentum_D_1200_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1200_2.plot.json",
+          "output": "momentum_D_1200_2.png"
+        },
+        {
+          "name": "momentum_D_1200_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1200_3.plot.json",
+          "output": "momentum_D_1200_3.png"
+        },
+        {
+          "name": "momentum_D_1300_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1300_0.plot.json",
+          "output": "momentum_D_1300_0.png"
+        },
+        {
+          "name": "momentum_D_1300_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1300_1.plot.json",
+          "output": "momentum_D_1300_1.png"
+        },
+        {
+          "name": "momentum_D_1300_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1300_2.plot.json",
+          "output": "momentum_D_1300_2.png"
+        },
+        {
+          "name": "momentum_D_1300_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1300_3.plot.json",
+          "output": "momentum_D_1300_3.png"
+        },
+        {
+          "name": "momentum_D_1400_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1400_0.plot.json",
+          "output": "momentum_D_1400_0.png"
+        },
+        {
+          "name": "momentum_D_1400_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1400_1.plot.json",
+          "output": "momentum_D_1400_1.png"
+        },
+        {
+          "name": "momentum_D_1400_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1400_2.plot.json",
+          "output": "momentum_D_1400_2.png"
+        },
+        {
+          "name": "momentum_D_1400_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1400_3.plot.json",
+          "output": "momentum_D_1400_3.png"
+        },
+        {
+          "name": "momentum_D_1500_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1500_0.plot.json",
+          "output": "momentum_D_1500_0.png"
+        },
+        {
+          "name": "momentum_D_1500_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1500_1.plot.json",
+          "output": "momentum_D_1500_1.png"
+        },
+        {
+          "name": "momentum_D_1500_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1500_2.plot.json",
+          "output": "momentum_D_1500_2.png"
+        },
+        {
+          "name": "momentum_D_1500_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1500_3.plot.json",
+          "output": "momentum_D_1500_3.png"
+        },
+        {
+          "name": "momentum_D_1600_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1600_0.plot.json",
+          "output": "momentum_D_1600_0.png"
+        },
+        {
+          "name": "momentum_D_1600_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1600_1.plot.json",
+          "output": "momentum_D_1600_1.png"
+        },
+        {
+          "name": "momentum_D_1600_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1600_2.plot.json",
+          "output": "momentum_D_1600_2.png"
+        },
+        {
+          "name": "momentum_D_1600_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1600_3.plot.json",
+          "output": "momentum_D_1600_3.png"
+        },
+        {
+          "name": "momentum_D_1700_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1700_0.plot.json",
+          "output": "momentum_D_1700_0.png"
+        },
+        {
+          "name": "momentum_D_1700_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1700_1.plot.json",
+          "output": "momentum_D_1700_1.png"
+        },
+        {
+          "name": "momentum_D_1700_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1700_2.plot.json",
+          "output": "momentum_D_1700_2.png"
+        },
+        {
+          "name": "momentum_D_1700_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1700_3.plot.json",
+          "output": "momentum_D_1700_3.png"
+        },
+        {
+          "name": "momentum_D_1800_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1800_0.plot.json",
+          "output": "momentum_D_1800_0.png"
+        },
+        {
+          "name": "momentum_D_1800_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1800_1.plot.json",
+          "output": "momentum_D_1800_1.png"
+        },
+        {
+          "name": "momentum_D_1800_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1800_2.plot.json",
+          "output": "momentum_D_1800_2.png"
+        },
+        {
+          "name": "momentum_D_1800_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1800_3.plot.json",
+          "output": "momentum_D_1800_3.png"
+        },
+        {
+          "name": "momentum_D_1900_0",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1900_0.plot.json",
+          "output": "momentum_D_1900_0.png"
+        },
+        {
+          "name": "momentum_D_1900_1",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1900_1.plot.json",
+          "output": "momentum_D_1900_1.png"
+        },
+        {
+          "name": "momentum_D_1900_2",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1900_2.plot.json",
+          "output": "momentum_D_1900_2.png"
+        },
+        {
+          "name": "momentum_D_1900_3",
+          "type": "matrix",
+          "source": "MomentumSlices/momentum_D_1900_3.plot.json",
+          "output": "momentum_D_1900_3.png"
+        }
+      ],
+      "meta": {}
+    },
+    "MomentumMatrices": {
+      "plots": [
+        {
+          "name": "momentum_A_0",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_0.plot.json",
+          "output": "momentum_A_0.png"
+        },
+        {
+          "name": "momentum_A_100",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_100.plot.json",
+          "output": "momentum_A_100.png"
+        },
+        {
+          "name": "momentum_A_200",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_200.plot.json",
+          "output": "momentum_A_200.png"
+        },
+        {
+          "name": "momentum_A_300",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_300.plot.json",
+          "output": "momentum_A_300.png"
+        },
+        {
+          "name": "momentum_A_400",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_400.plot.json",
+          "output": "momentum_A_400.png"
+        },
+        {
+          "name": "momentum_A_500",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_500.plot.json",
+          "output": "momentum_A_500.png"
+        },
+        {
+          "name": "momentum_A_600",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_600.plot.json",
+          "output": "momentum_A_600.png"
+        },
+        {
+          "name": "momentum_A_700",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_700.plot.json",
+          "output": "momentum_A_700.png"
+        },
+        {
+          "name": "momentum_A_800",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_800.plot.json",
+          "output": "momentum_A_800.png"
+        },
+        {
+          "name": "momentum_A_900",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_900.plot.json",
+          "output": "momentum_A_900.png"
+        },
+        {
+          "name": "momentum_A_1000",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1000.plot.json",
+          "output": "momentum_A_1000.png"
+        },
+        {
+          "name": "momentum_A_1100",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1100.plot.json",
+          "output": "momentum_A_1100.png"
+        },
+        {
+          "name": "momentum_A_1200",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1200.plot.json",
+          "output": "momentum_A_1200.png"
+        },
+        {
+          "name": "momentum_A_1300",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1300.plot.json",
+          "output": "momentum_A_1300.png"
+        },
+        {
+          "name": "momentum_A_1400",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1400.plot.json",
+          "output": "momentum_A_1400.png"
+        },
+        {
+          "name": "momentum_A_1500",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1500.plot.json",
+          "output": "momentum_A_1500.png"
+        },
+        {
+          "name": "momentum_A_1600",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1600.plot.json",
+          "output": "momentum_A_1600.png"
+        },
+        {
+          "name": "momentum_A_1700",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1700.plot.json",
+          "output": "momentum_A_1700.png"
+        },
+        {
+          "name": "momentum_A_1800",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1800.plot.json",
+          "output": "momentum_A_1800.png"
+        },
+        {
+          "name": "momentum_A_1900",
+          "type": "matrix",
+          "source": "MomentumMatrices/momentum_A_1900.plot.json",
+          "output": "momentum_A_1900.png"
+        }
+      ],
+      "meta": {}
+    },
+    "TraceHistorySlices": {
+      "plots": [
+        {
+          "name": "trace_history_0_0",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_0.plot.json",
+          "output": "trace_history_0_0.png"
+        },
+        {
+          "name": "trace_history_1_0",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_0.plot.json",
+          "output": "trace_history_1_0.png"
+        },
+        {
+          "name": "trace_history_2_0",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_0.plot.json",
+          "output": "trace_history_2_0.png"
+        },
+        {
+          "name": "trace_history_3_0",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_0.plot.json",
+          "output": "trace_history_3_0.png"
+        },
+        {
+          "name": "trace_history_0_100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_100.plot.json",
+          "output": "trace_history_0_100.png"
+        },
+        {
+          "name": "trace_history_1_100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_100.plot.json",
+          "output": "trace_history_1_100.png"
+        },
+        {
+          "name": "trace_history_2_100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_100.plot.json",
+          "output": "trace_history_2_100.png"
+        },
+        {
+          "name": "trace_history_3_100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_100.plot.json",
+          "output": "trace_history_3_100.png"
+        },
+        {
+          "name": "trace_history_0_200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_200.plot.json",
+          "output": "trace_history_0_200.png"
+        },
+        {
+          "name": "trace_history_1_200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_200.plot.json",
+          "output": "trace_history_1_200.png"
+        },
+        {
+          "name": "trace_history_2_200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_200.plot.json",
+          "output": "trace_history_2_200.png"
+        },
+        {
+          "name": "trace_history_3_200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_200.plot.json",
+          "output": "trace_history_3_200.png"
+        },
+        {
+          "name": "trace_history_0_300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_300.plot.json",
+          "output": "trace_history_0_300.png"
+        },
+        {
+          "name": "trace_history_1_300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_300.plot.json",
+          "output": "trace_history_1_300.png"
+        },
+        {
+          "name": "trace_history_2_300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_300.plot.json",
+          "output": "trace_history_2_300.png"
+        },
+        {
+          "name": "trace_history_3_300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_300.plot.json",
+          "output": "trace_history_3_300.png"
+        },
+        {
+          "name": "trace_history_0_400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_400.plot.json",
+          "output": "trace_history_0_400.png"
+        },
+        {
+          "name": "trace_history_1_400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_400.plot.json",
+          "output": "trace_history_1_400.png"
+        },
+        {
+          "name": "trace_history_2_400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_400.plot.json",
+          "output": "trace_history_2_400.png"
+        },
+        {
+          "name": "trace_history_3_400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_400.plot.json",
+          "output": "trace_history_3_400.png"
+        },
+        {
+          "name": "trace_history_0_500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_500.plot.json",
+          "output": "trace_history_0_500.png"
+        },
+        {
+          "name": "trace_history_1_500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_500.plot.json",
+          "output": "trace_history_1_500.png"
+        },
+        {
+          "name": "trace_history_2_500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_500.plot.json",
+          "output": "trace_history_2_500.png"
+        },
+        {
+          "name": "trace_history_3_500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_500.plot.json",
+          "output": "trace_history_3_500.png"
+        },
+        {
+          "name": "trace_history_0_600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_600.plot.json",
+          "output": "trace_history_0_600.png"
+        },
+        {
+          "name": "trace_history_1_600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_600.plot.json",
+          "output": "trace_history_1_600.png"
+        },
+        {
+          "name": "trace_history_2_600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_600.plot.json",
+          "output": "trace_history_2_600.png"
+        },
+        {
+          "name": "trace_history_3_600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_600.plot.json",
+          "output": "trace_history_3_600.png"
+        },
+        {
+          "name": "trace_history_0_700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_700.plot.json",
+          "output": "trace_history_0_700.png"
+        },
+        {
+          "name": "trace_history_1_700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_700.plot.json",
+          "output": "trace_history_1_700.png"
+        },
+        {
+          "name": "trace_history_2_700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_700.plot.json",
+          "output": "trace_history_2_700.png"
+        },
+        {
+          "name": "trace_history_3_700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_700.plot.json",
+          "output": "trace_history_3_700.png"
+        },
+        {
+          "name": "trace_history_0_800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_800.plot.json",
+          "output": "trace_history_0_800.png"
+        },
+        {
+          "name": "trace_history_1_800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_800.plot.json",
+          "output": "trace_history_1_800.png"
+        },
+        {
+          "name": "trace_history_2_800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_800.plot.json",
+          "output": "trace_history_2_800.png"
+        },
+        {
+          "name": "trace_history_3_800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_800.plot.json",
+          "output": "trace_history_3_800.png"
+        },
+        {
+          "name": "trace_history_0_900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_900.plot.json",
+          "output": "trace_history_0_900.png"
+        },
+        {
+          "name": "trace_history_1_900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_900.plot.json",
+          "output": "trace_history_1_900.png"
+        },
+        {
+          "name": "trace_history_2_900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_900.plot.json",
+          "output": "trace_history_2_900.png"
+        },
+        {
+          "name": "trace_history_3_900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_900.plot.json",
+          "output": "trace_history_3_900.png"
+        },
+        {
+          "name": "trace_history_0_1000",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1000.plot.json",
+          "output": "trace_history_0_1000.png"
+        },
+        {
+          "name": "trace_history_1_1000",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1000.plot.json",
+          "output": "trace_history_1_1000.png"
+        },
+        {
+          "name": "trace_history_2_1000",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1000.plot.json",
+          "output": "trace_history_2_1000.png"
+        },
+        {
+          "name": "trace_history_3_1000",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1000.plot.json",
+          "output": "trace_history_3_1000.png"
+        },
+        {
+          "name": "trace_history_0_1100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1100.plot.json",
+          "output": "trace_history_0_1100.png"
+        },
+        {
+          "name": "trace_history_1_1100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1100.plot.json",
+          "output": "trace_history_1_1100.png"
+        },
+        {
+          "name": "trace_history_2_1100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1100.plot.json",
+          "output": "trace_history_2_1100.png"
+        },
+        {
+          "name": "trace_history_3_1100",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1100.plot.json",
+          "output": "trace_history_3_1100.png"
+        },
+        {
+          "name": "trace_history_0_1200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1200.plot.json",
+          "output": "trace_history_0_1200.png"
+        },
+        {
+          "name": "trace_history_1_1200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1200.plot.json",
+          "output": "trace_history_1_1200.png"
+        },
+        {
+          "name": "trace_history_2_1200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1200.plot.json",
+          "output": "trace_history_2_1200.png"
+        },
+        {
+          "name": "trace_history_3_1200",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1200.plot.json",
+          "output": "trace_history_3_1200.png"
+        },
+        {
+          "name": "trace_history_0_1300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1300.plot.json",
+          "output": "trace_history_0_1300.png"
+        },
+        {
+          "name": "trace_history_1_1300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1300.plot.json",
+          "output": "trace_history_1_1300.png"
+        },
+        {
+          "name": "trace_history_2_1300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1300.plot.json",
+          "output": "trace_history_2_1300.png"
+        },
+        {
+          "name": "trace_history_3_1300",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1300.plot.json",
+          "output": "trace_history_3_1300.png"
+        },
+        {
+          "name": "trace_history_0_1400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1400.plot.json",
+          "output": "trace_history_0_1400.png"
+        },
+        {
+          "name": "trace_history_1_1400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1400.plot.json",
+          "output": "trace_history_1_1400.png"
+        },
+        {
+          "name": "trace_history_2_1400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1400.plot.json",
+          "output": "trace_history_2_1400.png"
+        },
+        {
+          "name": "trace_history_3_1400",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1400.plot.json",
+          "output": "trace_history_3_1400.png"
+        },
+        {
+          "name": "trace_history_0_1500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1500.plot.json",
+          "output": "trace_history_0_1500.png"
+        },
+        {
+          "name": "trace_history_1_1500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1500.plot.json",
+          "output": "trace_history_1_1500.png"
+        },
+        {
+          "name": "trace_history_2_1500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1500.plot.json",
+          "output": "trace_history_2_1500.png"
+        },
+        {
+          "name": "trace_history_3_1500",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1500.plot.json",
+          "output": "trace_history_3_1500.png"
+        },
+        {
+          "name": "trace_history_0_1600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1600.plot.json",
+          "output": "trace_history_0_1600.png"
+        },
+        {
+          "name": "trace_history_1_1600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1600.plot.json",
+          "output": "trace_history_1_1600.png"
+        },
+        {
+          "name": "trace_history_2_1600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1600.plot.json",
+          "output": "trace_history_2_1600.png"
+        },
+        {
+          "name": "trace_history_3_1600",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1600.plot.json",
+          "output": "trace_history_3_1600.png"
+        },
+        {
+          "name": "trace_history_0_1700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1700.plot.json",
+          "output": "trace_history_0_1700.png"
+        },
+        {
+          "name": "trace_history_1_1700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1700.plot.json",
+          "output": "trace_history_1_1700.png"
+        },
+        {
+          "name": "trace_history_2_1700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1700.plot.json",
+          "output": "trace_history_2_1700.png"
+        },
+        {
+          "name": "trace_history_3_1700",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1700.plot.json",
+          "output": "trace_history_3_1700.png"
+        },
+        {
+          "name": "trace_history_0_1800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1800.plot.json",
+          "output": "trace_history_0_1800.png"
+        },
+        {
+          "name": "trace_history_1_1800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1800.plot.json",
+          "output": "trace_history_1_1800.png"
+        },
+        {
+          "name": "trace_history_2_1800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1800.plot.json",
+          "output": "trace_history_2_1800.png"
+        },
+        {
+          "name": "trace_history_3_1800",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1800.plot.json",
+          "output": "trace_history_3_1800.png"
+        },
+        {
+          "name": "trace_history_0_1900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_0_1900.plot.json",
+          "output": "trace_history_0_1900.png"
+        },
+        {
+          "name": "trace_history_1_1900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_1_1900.plot.json",
+          "output": "trace_history_1_1900.png"
+        },
+        {
+          "name": "trace_history_2_1900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_2_1900.plot.json",
+          "output": "trace_history_2_1900.png"
+        },
+        {
+          "name": "trace_history_3_1900",
+          "type": "matrix",
+          "source": "TraceHistorySlices/trace_history_3_1900.plot.json",
+          "output": "trace_history_3_1900.png"
+        }
+      ],
+      "meta": {}
+    },
+    "WeightMatrices": {
+      "plots": [
+        {
+          "name": "weights_0",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_0.plot.json",
+          "output": "weights_0.png"
+        },
+        {
+          "name": "weights_100",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_100.plot.json",
+          "output": "weights_100.png"
+        },
+        {
+          "name": "weights_200",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_200.plot.json",
+          "output": "weights_200.png"
+        },
+        {
+          "name": "weights_300",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_300.plot.json",
+          "output": "weights_300.png"
+        },
+        {
+          "name": "weights_400",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_400.plot.json",
+          "output": "weights_400.png"
+        },
+        {
+          "name": "weights_500",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_500.plot.json",
+          "output": "weights_500.png"
+        },
+        {
+          "name": "weights_600",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_600.plot.json",
+          "output": "weights_600.png"
+        },
+        {
+          "name": "weights_700",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_700.plot.json",
+          "output": "weights_700.png"
+        },
+        {
+          "name": "weights_800",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_800.plot.json",
+          "output": "weights_800.png"
+        },
+        {
+          "name": "weights_900",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_900.plot.json",
+          "output": "weights_900.png"
+        },
+        {
+          "name": "weights_1000",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1000.plot.json",
+          "output": "weights_1000.png"
+        },
+        {
+          "name": "weights_1100",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1100.plot.json",
+          "output": "weights_1100.png"
+        },
+        {
+          "name": "weights_1200",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1200.plot.json",
+          "output": "weights_1200.png"
+        },
+        {
+          "name": "weights_1300",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1300.plot.json",
+          "output": "weights_1300.png"
+        },
+        {
+          "name": "weights_1400",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1400.plot.json",
+          "output": "weights_1400.png"
+        },
+        {
+          "name": "weights_1500",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1500.plot.json",
+          "output": "weights_1500.png"
+        },
+        {
+          "name": "weights_1600",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1600.plot.json",
+          "output": "weights_1600.png"
+        },
+        {
+          "name": "weights_1700",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1700.plot.json",
+          "output": "weights_1700.png"
+        },
+        {
+          "name": "weights_1800",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1800.plot.json",
+          "output": "weights_1800.png"
+        },
+        {
+          "name": "weights_1900",
+          "type": "matrix",
+          "source": "WeightMatrices/weights_1900.plot.json",
+          "output": "weights_1900.png"
+        }
+      ],
+      "meta": {}
+    }
+  },
+  "graph_path": "/",
+  "render_templates": {
+    "line": {
+      "template_path": "line"
+    },
+    "matrix": {
+      "template_path": "matrix"
+    }
+  },
+  "style": {
+    "default_colormap": "viridis",
+    "theme": "dark"
+  },
+  "render_kit_version": "0.1.0"
+}
